@@ -1,12 +1,12 @@
 {
-  "name": "react-native-location",
-  "version": "0.3.5",
+  "name": "rnloc",
+  "version": "0.0.1",
   "peerDependencies": {
     "react-native": "^0.11.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/captainhurst/react-native-location.git"
+    "url": "https://github.com/captainhurst/rnloc.git"
   },
   "license": "MIT",
   "keywords": ["react-native", "react-component", "ios", "location", "beacons", "ble"],
